@@ -1,0 +1,9 @@
+studentName firstName lastName @
+studentName -> firstName lastName @
+studentName -> anonymous @
+firstName -> John @
+firstName -> Tom @
+firstName -> Jane @
+lastName -> Doe @
+lastName -> Unknown @
+@@
